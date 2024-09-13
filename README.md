@@ -2,7 +2,7 @@
 
 # Laravel Integration for Cloudflare Turnstile
 
-A lightweight package designed to streamline the integration of Cloudflare Turnstile CAPTCHA into your Laravel applications, with the option to also leverage CapSolver for enhanced CAPTCHA-solving automation.
+A lightweight package designed to streamline the integration of Cloudflare Turnstile CAPTCHA into your Laravel applications, with the option to also use [CapSolver](https://capsolver.com/?utm_source=github&utm_medium=repo&utm_campaign=cloudflare-turnstile) for enhanced CAPTCHA-solving automation.
 
 ### Overview
 
@@ -148,5 +148,5 @@ composer test
 
 ### Leveraging CapSolver
 
-For scenarios where automated CAPTCHA-solving is necessary, you can integrate [CapSolver]() alongside Turnstile for real-time CAPTCHA-solving. This ensures that even the most difficult challenges are resolved efficiently without user intervention.
+For scenarios where automated CAPTCHA-solving is necessary, you can integrate [CapSolver](https://capsolver.com/?utm_source=github&utm_medium=repo&utm_campaign=cloudflare-turnstile) alongside Turnstile for real-time CAPTCHA-solving. This ensures that even the most difficult challenges are resolved efficiently without user intervention.
 
